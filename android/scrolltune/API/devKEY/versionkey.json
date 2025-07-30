@@ -3,10 +3,11 @@
     "buildnumber": 0.01,
     "vername": "dev",
     "author": "Pando",
-    "project": "ScrollTune",
-    "project-description": "A fun way to discover new artists, and new songs!"
-    "projectphase": "DEV"
-    "devKEY": "c4a6a05de6e77f90863152eecaff7e80"
-    "devKEY-protocol": "MD5"
+    "project": "SoundNest",
+    "project-oldname": "ScrollTune",
+    "project-description": "A fun way to discover new artists, and new songs!",
+    "projectphase": "DEV",
+    "devKEY": "c4a6a05de6e77f90863152eecaff7e80",
+    "devKEY-protocol": "MD5",
     "devKEY-SHA1": "3ceab65445889308818b8b5ec0fe7452d255936d"
 }
